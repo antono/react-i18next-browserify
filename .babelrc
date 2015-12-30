@@ -1,0 +1,9 @@
+{
+  "sourceMaps": true,
+  "plugins": [
+    "transform-es2015-modules-commonjs",
+    "transform-runtime",
+    "add-module-exports"
+  ],
+  "presets": ["es2015", "stage-0", "react"]
+}
